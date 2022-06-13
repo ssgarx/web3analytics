@@ -1,0 +1,22 @@
+{
+  "name": "web3analytics",
+  "version": "1.0.0",
+  "description": "analytics for web3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssgarx/web3analytics.git"
+  },
+  "keywords": [
+    "analytics"
+  ],
+  "author": "Decentral Systems Labs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssgarx/web3analytics/issues"
+  },
+  "homepage": "https://github.com/ssgarx/web3analytics#readme"
+}
