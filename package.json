@@ -1,6 +1,6 @@
 {
   "name": "web3analytics",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "analytics for web3",
   "main": "index.js",
   "type": "module",
