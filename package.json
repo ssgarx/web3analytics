@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/ssgarx/web3analytics#readme",
   "dependencies": {
+    "axios": "^0.27.2",
     "node-fetch": "^3.2.6"
   }
 }

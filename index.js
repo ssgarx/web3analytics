@@ -1,4 +1,4 @@
-import fetch from "node-fetch";
+import axios from "axios";
 const web3analytics = {
   init: (project_key) => {
     console.log("init");
