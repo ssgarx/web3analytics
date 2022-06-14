@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "analytics for web3",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ssgarx/web3analytics/issues"
   },
-  "homepage": "https://github.com/ssgarx/web3analytics#readme"
+  "homepage": "https://github.com/ssgarx/web3analytics#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  }
 }
